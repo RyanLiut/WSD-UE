@@ -45,8 +45,7 @@ Word sense disambiguation (WSD) is a crucial task in natural language understand
    After execution, the results will be saved in the specified output path (default: `results4/`).
 
 ## Citation
-
-```latex
+```
 @inproceedings{liu-liu-2023-ambiguity,
     title = "Ambiguity Meets Uncertainty: Investigating Uncertainty Estimation for Word Sense Disambiguation",
     author = "Liu, Zhu  and
@@ -60,7 +59,6 @@ Word sense disambiguation (WSD) is a crucial task in natural language understand
     doi = "10.18653/v1/2023.findings-acl.245",
     pages = "3963--3977",
 ```
-
 ## Acknowledgement
 
 The code is based on [multilabel-wsd](https://github.com/SapienzaNLP/multilabel-wsd). We would like to express our gratitude to the authors for their work and code.
