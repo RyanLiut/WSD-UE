@@ -19,7 +19,7 @@ Word sense disambiguation (WSD) is a crucial task in natural language understand
 
    Dataset: https://cloud.tsinghua.edu.cn/d/feaec5147ef6458cb0f7/
 
-   Model (Checkpoint): https://cloud.tsinghua.edu.cn/d/7abe2bdc29a44978abf4/
+   Model (Checkpoint): https://cloud.tsinghua.edu.cn/d/cbc10bf9881b4450bb4d/
 
    Final results: https://cloud.tsinghua.edu.cn/d/7abe2bdc29a44978abf4/
 
